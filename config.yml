@@ -2,9 +2,9 @@ secrets:
         secret_name : "twillio_creds"
         region_name : "us-west-1"
 college:
-        name: "WhatsAMatterU"
+        name: "CSUSM"
 chatbot:
-        name: "Bianca Del Rio"
+        name: "Robby Banks"
 twillio:
         phone_number: "+18582631339"
 
