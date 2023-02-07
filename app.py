@@ -87,5 +87,5 @@ def exec_proc(proc_name):
 
 
 if __name__ == '__main__':
-    app.run(host='3.101.149.110', port=80)
+    app.run(host='0.0.0.0', port=80)
 
