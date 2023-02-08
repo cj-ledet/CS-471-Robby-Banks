@@ -1,12 +1,14 @@
 {
     "input": {
         "hello": [
-            "piss off",
-            "party",
-            "slay"
+            "hi! wanna join me on a thrilling slightly illegal adventure?",
+            "if this is the police, I didn't do it!",
+            "sup, do you want to help me make some sweet mula rain from the sky? "
         ],
-        "party": [
+        "yes": [
             "\u2764\ufe0f"
+            "\U0001F911"
+            "\U0001F3E6"
         ],
         "h": [
             "DID NOT FIND"
