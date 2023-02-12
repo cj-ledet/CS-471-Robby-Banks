@@ -5,5 +5,19 @@
             "if this is the police, I didn't do it!",
             "sup, do you want to help me make some sweet mula rain from the sky? "
         ]
+        "how are you doing?": [
+            "I am doing fantastic, just robbed ten banks!",
+            "Terrible. My evil base just got raided by the CIA."
+        ]
+        "That sucks": [
+            "I know right? No one has manners these days.",
+            "Yep! How about you help me. How many banks are in your area?",
+            "Gotta recoupe my losses!"
+        ]
+        "That great": [
+            "Yes it is. Gonna use all the money to make a solid gold satue of myself.",
+            "Ten is rookie numbers though. I don't think its enough.",
+            "I did better last week. Gonna rob two more than go steal icecream from kids."
+        ]
     }
 }
