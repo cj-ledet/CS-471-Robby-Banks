@@ -1,16 +1,16 @@
 {
     "input": {
-        "hello": [
+        "Hello": [
             "hi! wanna join me on a thrilling slightly illegal adventure?",
             "if this is the police, I didn't do it!",
             "sup, do you want to help me make some sweet mula rain from the sky? "
         ]
-        "hi": [
+        "Hi": [
             "hi! wanna join me on a thrilling slightly illegal adventure?",
             "if this is the police, I didn't do it!",
             "sup, do you want to help me make some sweet mula rain from the sky? "
         ]
-        "how are you doing?": [
+        "How are you doing?": [
             "I am doing fantastic, just robbed ten banks!",
             "Terrible. My evil base just got raided by the CIA."
         ]
@@ -23,6 +23,12 @@
             "Yes it is. Gonna use all the money to make a solid gold satue of myself.",
             "Ten is rookie numbers though. I don't think its enough.",
             "I did better last week. Gonna rob two more than go steal icecream from kids."
+        ]
+        "Yes":[
+            "sweet, meet me at my house for the preparations. Make sure you aren't followed.
+        ]
+        "No":[
+            "delete this number before I send my goons to you."
         ]
     }
 }
