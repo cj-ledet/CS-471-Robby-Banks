@@ -26,10 +26,12 @@
             "I did better last week. Gonna rob two more than go steal icecream from kids."
         ]
         "Yes":[
-            "sweet, meet me at my house for the preparations. Make sure you aren't followed."
+            "sweet, meet me at my house for the preparations. Make sure you aren't followed.",
+            "just so you know, you’ll be learning from the best, you should seriously see my resume."
         ]
         "No":[
-            "delete this number before I send my goons to you."
+            "delete this number before I send my goons to you.",
+            "you’re gonna miss out of some serious bread."
         ]
     }
 }
