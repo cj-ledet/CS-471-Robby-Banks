@@ -43,10 +43,14 @@
     },
 
     "misc corpus" :[
-    "Money.",
-    "Lots of Money",
-    "So much money"
-    
-    
-    ]
+        "I love money",
+        "Money",
+        "Lots of money",
+        "So much money",
+        "Money!",
+        "What's your first and last name?",
+        "Just for fun! What's your social security number?",
+        "Oh nice! What's your zip code!",
+        "Incredible me too! What's your credit card number? & security code?" 
+        ]
 }
