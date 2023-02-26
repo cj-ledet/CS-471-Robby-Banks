@@ -30,7 +30,7 @@ def handle_request():
         act= chat(request.form['From'])
 
     act.save_msg(request.form['Body'])
-    output = act.get_output(request.form['Body'])
+    output = act.get_output(str(request.form['Body']).lower())
 
     for o_msg in output:
          message = g.sms_client.messages.create(
