@@ -40,3 +40,8 @@ class chat(actor):
             return [ random.choice( CORPUS[ "misc corpus" ] ) ]
         else:
             return [ msg ]
+
+
+
+
+

@@ -25,29 +25,28 @@
             "Ten is rookie numbers though. I don't think its enough.",
             "I did better last week. Gonna rob two more than go steal icecream from kids."
         ],
-        "yes":[
+        "yes": [
             "sweet, meet me at my house for the preparations. Make sure you aren't followed.",
-            "just so you know, you’ll be learning from the best, you should seriously see my resume."
+            "just so you know, you\u2019ll be learning from the best, you should seriously see my resume."
         ],
-        "no":[
+        "no": [
             "delete this number before I send my goons to you.",
-            "you’re gonna miss out of some serious bread."
+            "you\u2019re gonna miss out of some serious bread."
         ],
-        "what's in it for me?":[
+        "what's in it for me?": [
             "A butt ton of cash",
             "Nothing, get wrecked."
+        ],
+        "hey": [
+            "DID NOT FIND"
         ]
     },
+
     "misc corpus" :[
-        "I love money",
-        "Money",
-        "Lots of money",
-        "So much money",
-        "Money!",
-        "What's your first and last name?",
-        "Just for fun! What's your social security number?",
-        "Oh nice! What's your zip code!",
-        "Incredible me too! What's your credit card number? & security code?" 
-        ]
+    "Money.",
+    "Lots of Money",
+    "So much money"
     
+    
+    ]
 }
