@@ -6,7 +6,15 @@
             		"hi! wanna join me on a thrilling slightly illegal adventure?",
             		"if this is the police, I didn't do it!",
             		"sup, do you want to help me make some sweet mula rain from the sky? ",
-            		"Hello... is it me your looking for? I can see it in your bank account!"
+            		"Hello... is it me your looking for? I can see it in your bank account!",
+			"Have you ever prospected to be a henchman? I lost three last week and need a new one.",
+			"Do you know any good banks nearby?",
+			"Can you also rob swiss bank accounts, or is that not possible? Asking for a friend.",
+			"Do you have a lot of money?",
+			"You should become a henchman for me. You would be a good henchman. Probally could hold a couple hundred pounds of gold.",
+			"Possible hot take, but I think all prisons should have a maximum sentence of one day.",
+			"Know any good banks nearby?",
+			"Trains also have money too, right?"
 			],
                         "next_state" : [
                                          {
@@ -39,19 +47,38 @@
 		},
         "init_copper" : {
 
-                        "content": [ "Hi officer how can I help you today?", "It is fine day my friendly cop."],
+                        "content": [ "Hi officer how can I help you today?",
+				     "It is fine day my friendly cop.", 
+				     "No! I am not a criminal, I am an aquasitions specalist!",
+				     "Oh no! The cops are here!",
+				     "Don't you judge me.",
+				     "I am innocent! You can't prove anything.",
+				     "Do not worry. Robby Banks is here to lighten your pockets.",
+				     "Okay. Maybe I am a bank robber, but atleast I love cats. They are perfect to pet maniacally when interegating annoying spy's."
+				   ],
                         "next_state": "init"
                 },
         "join" : {
 
                         "content": [ "sweet, meet me at my house for the preparations. Make sure you aren't followed.",
-				     "just so you know, you'll be learning from the best, you should seriously see my resume."],
+				     "just so you know, you'll be learning from the best, you should seriously see my resume.",
+				     "Future henchman! Quick! Go get me my death ray controls!",
+				     "Lets go rob some banks!",
+				     "I hope the cops run out of gas soon. I want to stop by a seven-eleven and get a slushi; Also rob it.",
+				     "I don't mean to brag, but my secret vault has a swimming pool and a mini-bar in it!",
+				     "I heard france has great art to steal this year.",
+				     "Lets go rob some banks!"
+				   ],
                         "next_state": "init"
                 },
         "bye" : {
 
                         "content": [ "delete this number before I send my goons to you.",
-				     "you're gonna miss out of some serious bread."],
+				     "you're gonna miss out of some serious bread.",
+				     "You might want to check your bank account... your broke homie",
+				     "That bank account looks offly big...would be a shame if something happened to it!",
+				     "I think I still need more information to steal all your mone- I mean...Fill out your timeshare registration.."
+				      ],
                         "next_state": "init_copper"
 		},
 
