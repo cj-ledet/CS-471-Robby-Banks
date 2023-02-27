@@ -18,7 +18,7 @@ class robber(actor):
         super().__init__(phone_number)
         self.score = 0
 
-        self.paranoid = False #bool(random.getrandbits(1))
+        self.paranoid = bool(random.getrandbits(1))
         if self.paranoid :
             self.state =  "init_copper"
 
