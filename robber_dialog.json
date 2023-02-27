@@ -14,7 +14,8 @@
 			"You should become a henchman for me. You would be a good henchman. Probally could hold a couple hundred pounds of gold.💪",
 			"Possible hot take, but I think all prisons should have a maximum sentence of one day.🧐",
 			"Know any good banks nearby?😏",
-			"Trains also have money too, right?🚂"
+			"Trains also have money too, right?🚂",
+			"Are you a robot?!?!🤖😧"
 			],
                         "next_state" : [
                                          {
@@ -77,7 +78,8 @@
 				     "you're gonna miss out of some serious bread.😮‍💨😐",
 				     "You might want to check your bank account... you're broke homie!😛😂",
 				     "That bank account looks offly big...would be a shame if something happened to it!🤔🤫",
-				     "I think I still need more information to steal all your mone- I mean...Fill out your timeshare registration..🤗😅"
+				     "I think I still need more information to steal all your mone- I mean...Fill out your timeshare registration..🤗😅",
+				     "I think you need to change your attitude... and your security code on your bank account.🤭🤗"
 				      ],
                         "next_state": "init_copper"
 		},
