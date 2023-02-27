@@ -5,7 +5,7 @@ from os.path import exists
 
 
 from tools.logging import logger
-from things.chat import chat
+from things.chat import robber
 
 
 import random
@@ -27,7 +27,7 @@ def handle_request():
         with open(f"users/{request.form['From']}.pkl", 'rb') as p:
             act = pickle.load(p) 
     else:
-        act= chat(request.form['From'])
+        act= robber(request.form['From'])
 
     act.save_msg(request.form['Body'])
     output = act.get_output(request.form['Body'])

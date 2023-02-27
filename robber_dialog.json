@@ -1,0 +1,70 @@
+{
+
+	"init" : {
+
+		"content": [
+            		"hi! wanna join me on a thrilling slightly illegal adventure?",
+            		"if this is the police, I didn't do it!",
+            		"sup, do you want to help me make some sweet mula rain from the sky? ",
+            		"Hello... is it me your looking for? I can see it in your bank account!"
+			],
+                        "next_state" : [
+                                         {
+                                                 "input" : "YES",
+                                                 "next_state" : "join",
+                                                 "point_delta" : 0
+                                        },
+					{
+                                                 "input" : "yep",
+                                                 "next_state" : "join",
+                                                 "point_delta" : 0
+                                        },
+					{
+                                                 "input" : "sure",
+                                                 "next_state" : "join",
+                                                 "point_delta" : 0
+                                        },
+					{
+						 "input" : "no",
+                                                 "next_state" : "bye",
+                                                 "point_delta" : 0
+                                        }
+
+			],
+			"input_not_found" : {       
+                                                 "next_state" : "init",
+                                                 "point_delta" : 0
+                                        }
+
+		},
+        "init_copper" : {
+
+                        "content": [ "Hi officer how can I help you today?", "It is fine day my friendly cop."],
+                        "next_state": "init"
+                },
+        "join" : {
+
+                        "content": [ "sweet, meet me at my house for the preparations. Make sure you aren't followed.",
+				     "just so you know, you'll be learning from the best, you should seriously see my resume."],
+                        "next_state": "init"
+                },
+        "bye" : {
+
+                        "content": [ "delete this number before I send my goons to you.",
+				     "you're gonna miss out of some serious bread."],
+                        "next_state": "init_copper"
+		},
+
+   "misc corpus" :[
+        "I love money",
+        "Money",
+        "Lots of money",
+        "So much money",
+        "What's your first and last name?",
+        "Just for fun! What's your social security number?",
+        "Oh nice! What's your zip code!",
+        "Incredible me too! What's your credit card number? & security code?"
+        ]
+
+}
+
