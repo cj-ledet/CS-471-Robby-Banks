@@ -36,6 +36,11 @@
         "what's in it for me?": [
             "A butt ton of cash",
             "Nothing, get wrecked."
+        ],
+        "Are you robot?": [
+            "A robot? What are you talking about?",
+            "No! I only use robots for stealing!",
+            "Your the robot. Now give me your money."
         ]
     },
 
