@@ -25,8 +25,7 @@
             "Ten is rookie numbers though. I don't think its enough.",
             "I did better last week. Gonna rob two more than go steal icecream from kids."
         ],
-        "yes":
-        "Yes": [
+        "yes": [
             "sweet, meet me at my house for the preparations. Make sure you aren't followed.",
             "just so you know, youll be learning from the best, you should seriously see my resume."
         ],
@@ -38,7 +37,7 @@
             "A butt ton of cash",
             "Nothing, get wrecked."
         ],
-        "Are you robot?": [
+        "are you robot?": [
             "A robot? What are you talking about?",
             "No! I only use robots for stealing!",
             "Your the robot. Now give me your money."
